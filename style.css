@@ -1,0 +1,69 @@
+.bold {
+    font-weight:bolder;
+}
+.product{
+    color:white;
+    text-align: left;
+    background-image: url('./product.jpg');
+    background-size:cover;   
+    height: 500px;
+    text-shadow: 1px 1px black;
+    padding-top: 120px;
+    padding-left:120px;
+    font: 10px sans-serif;
+}
+.button {
+    background-color:silver;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+a.button:hover {
+    color: rgb(201, 2, 2);
+    text-decoration: underline;
+}
+.info{
+    background-color: rgb(201, 2, 2);
+    color:white;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+.mailer{
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom:50px;
+}
+.footer{
+    background-color: rgb(201, 2, 2);
+    color:black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.logo{
+    align-content:left;
+}
+.disclaimer{
+    align-content:right;
+}
+.map{
+    background-image: url('./map.PNG');
+    background-size:cover;
+    height: 245px;
+}
+.card{
+    background-color:rgb(201, 2, 2);
+    box-shadow: 2px 2px 4px #e7e7e7;
+    border-radius: 4px;
+    /* padding: 1vw;
+    margin: 1vw; */
+}
+.email{
+    padding-bottom: 10px;
+}
